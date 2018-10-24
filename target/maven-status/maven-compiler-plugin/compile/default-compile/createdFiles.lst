@@ -1,0 +1,5 @@
+com\javastreets\ee\microprofile\entities\Person.class
+com\javastreets\ee\microprofile\services\BookService.class
+com\javastreets\ee\microprofile\entities\Book.class
+com\javastreets\ee\microprofile\endpoints\BookServiceEndpoint.class
+com\javastreets\ee\microprofile\endpoints\RestApplication.class
